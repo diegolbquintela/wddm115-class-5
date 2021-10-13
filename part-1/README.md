@@ -19,6 +19,7 @@ Questions
 Write the command (or commands) that will display the following message 'Hello from the command line.'
 
 Write the command (or commands) that will create a file named 'hello-world.txt'.
+touch hello-world.txt
 
 Write the command (or commands) that will create a folder named 'my-new-folder' in current directory.
 
